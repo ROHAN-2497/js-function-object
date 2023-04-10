@@ -10,3 +10,12 @@ startFan()
 console.log("walking the morning")
 // startFan()
 // startFan()
+
+
+function letsGo( ){
+    console.log("dokane jaw");
+    console.log("dim kine ante")
+}
+letsGo()
+console.log('ki hkobor')
+letsGo()
